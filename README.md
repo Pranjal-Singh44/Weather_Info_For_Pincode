@@ -122,7 +122,7 @@ com.FreightFox.weather_for_pin
 
 ---
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
 - [OpenWeather API](https://openweathermap.org/api)
 - Spring Boot, JPA, H2, JUnit, Mockito
